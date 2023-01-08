@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driverthresholds Id="1">
+	<collectionthreshold>
+		<value>10 km</value>
+	</collectionthreshold>
+	<deliverythreshold>
+		<value>10 km</value>
+	</deliverythreshold>
+	
+</driverthresholds >
+

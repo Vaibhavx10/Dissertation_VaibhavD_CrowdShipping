@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emission Id="1">
+  <name>Transit</name>
+	<perunitmiles>
+		<value>0.307</value>
+		<unit>kg CO2/t-km</unit>
+	</perunitmiles>
+	<perunitweight>
+		<value>3.0 kg</value>
+		<unit>kg CO2/t-km</unit>
+	</perunitweight>
+	<fuelequivalent>
+		<value>0.285</value>
+		<unit>L/km</unit>
+	</fuelequivalent>
+</emission >
+
